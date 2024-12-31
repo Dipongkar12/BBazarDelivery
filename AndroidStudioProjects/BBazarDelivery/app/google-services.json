@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "557258231943",
+    "firebase_url": "https://bachelorbazar-9011d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bachelorbazar-9011d",
+    "storage_bucket": "bachelorbazar-9011d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557258231943:android:678fdabf4612fc9e046822",
+        "android_client_info": {
+          "package_name": "com.example.bacheloradmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATrIh6t5LlTNaTP6JtzcVVAOfCxxtistc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557258231943:android:b6985f8e57054698046822",
+        "android_client_info": {
+          "package_name": "com.example.bachelorbazar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATrIh6t5LlTNaTP6JtzcVVAOfCxxtistc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557258231943:android:c3d5d67c9ea8dadc046822",
+        "android_client_info": {
+          "package_name": "com.example.bbazardelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATrIh6t5LlTNaTP6JtzcVVAOfCxxtistc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
